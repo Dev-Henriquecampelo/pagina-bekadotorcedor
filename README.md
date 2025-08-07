@@ -1,9 +1,9 @@
 <h1 align="center">
-🛒<br>RedStore.
+🛒<br>bekadotorcedor.
 </h1>
 
 <h4 align="center">
-Design de uma loja virtual esportiva.
+ loja virtual esportiva.
 </h4>
 
 ![Bekado torcedor](https://user-images.githubusercontent.com/70277574/110541985-42c6a180-8107-11eb-961d-3d147ea51b47.png)
