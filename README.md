@@ -6,7 +6,7 @@
 Design de uma loja virtual esportiva.
 </h4>
 
-![RedStore](https://user-images.githubusercontent.com/70277574/110541985-42c6a180-8107-11eb-961d-3d147ea51b47.png)
+![Bekado torcedor](https://user-images.githubusercontent.com/70277574/110541985-42c6a180-8107-11eb-961d-3d147ea51b47.png)
 
 ## 🛠 Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
